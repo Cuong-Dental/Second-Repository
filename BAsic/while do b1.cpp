@@ -36,5 +36,6 @@ int main(){
         cin >> arr[i];
     }
     sorting(arr,n);
+    cout << "Nguyen Duc Cuong" << endl;
     return 0;
 }
