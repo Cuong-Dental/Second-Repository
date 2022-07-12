@@ -1,0 +1,2 @@
+D:\CODE\VisuAL\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\CODE\VisuAL\ConsoleApplication1\Debug\ConsoleApplication1.pdb

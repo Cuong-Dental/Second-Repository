@@ -1,0 +1,10 @@
+D:\CODE\WinFOrm\DemoWindowsForm\bin\Debug\DemoWindowsForm.exe.config
+D:\CODE\WinFOrm\DemoWindowsForm\bin\Debug\DemoWindowsForm.exe
+D:\CODE\WinFOrm\DemoWindowsForm\bin\Debug\DemoWindowsForm.pdb
+D:\CODE\WinFOrm\DemoWindowsForm\obj\Debug\DemoWindowsForm.csprojAssemblyReference.cache
+D:\CODE\WinFOrm\DemoWindowsForm\obj\Debug\DemoWindowsForm.Form1.resources
+D:\CODE\WinFOrm\DemoWindowsForm\obj\Debug\DemoWindowsForm.Properties.Resources.resources
+D:\CODE\WinFOrm\DemoWindowsForm\obj\Debug\DemoWindowsForm.csproj.GenerateResource.cache
+D:\CODE\WinFOrm\DemoWindowsForm\obj\Debug\DemoWindowsForm.csproj.CoreCompileInputs.cache
+D:\CODE\WinFOrm\DemoWindowsForm\obj\Debug\DemoWindowsForm.exe
+D:\CODE\WinFOrm\DemoWindowsForm\obj\Debug\DemoWindowsForm.pdb

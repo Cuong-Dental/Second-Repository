@@ -1,0 +1,3 @@
+﻿  Test.cpp
+D:\CODE\VisuAL\Test\Test.cpp(28,14): warning C4018: '<': signed/unsigned mismatch
+  Test.vcxproj -> D:\CODE\VisuAL\Test\Debug\Test.exe

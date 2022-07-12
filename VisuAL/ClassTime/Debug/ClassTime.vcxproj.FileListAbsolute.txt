@@ -1,0 +1,2 @@
+D:\CODE\VisuAL\ClassTime\Debug\ClassTime.exe
+D:\CODE\VisuAL\ClassTime\Debug\ClassTime.pdb

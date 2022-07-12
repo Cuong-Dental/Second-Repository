@@ -1,0 +1,9 @@
+﻿  Bai3.cpp
+D:\CODE\VisuAL\Bai3\Bai3.cpp(18,1): error C2660: 'strcpy_s': function does not take 2 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(28,30): message : see declaration of 'strcpy_s'
+D:\CODE\VisuAL\Bai3\Bai3.cpp(20,1): error C2660: 'strcpy_s': function does not take 2 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(28,30): message : see declaration of 'strcpy_s'
+D:\CODE\VisuAL\Bai3\Bai3.cpp(62,1): error C2660: 'strcpy_s': function does not take 2 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(28,30): message : see declaration of 'strcpy_s'
+D:\CODE\VisuAL\Bai3\Bai3.cpp(64,1): error C2660: 'strcpy_s': function does not take 2 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(28,30): message : see declaration of 'strcpy_s'

@@ -1,0 +1,2 @@
+D:\CODE\VisuAL\Encapsulation\Debug\Encapsulation.exe
+D:\CODE\VisuAL\Encapsulation\Debug\Encapsulation.pdb
