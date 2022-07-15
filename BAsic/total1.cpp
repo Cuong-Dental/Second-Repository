@@ -18,5 +18,6 @@ int main (){
 	}
 	cout << "total= " << total((int*)&a,n);
 	cout << "Nguyen Duc Cuong" << endl;
+	cout << "2001" << endl;
 	return 0;
 }
